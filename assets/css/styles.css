@@ -119,6 +119,34 @@ a.btn-cta-secondary:hover, a.btn-cta-secondary:not(:disabled):not(.disabled):act
   background-clip: padding-box;
 }
 
+.extract-badge {
+  background: rgb(54,124,225);
+  font-size: 143x;
+  color: #fff;
+  -webkit-border-radius: 1px;
+  -moz-border-radius: 1px;
+  -ms-border-radius: 1px;
+  -o-border-radius: 1px;
+  border-radius: 1px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+}
+
+.ml-badge {
+  background: rgb(201, 62, 8);
+  font-size: 143x;
+  color: #fff;
+  -webkit-border-radius: 1px;
+  -moz-border-radius: 1px;
+  -ms-border-radius: 1px;
+  -o-border-radius: 1px;
+  border-radius: 1px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+}
+
 a.dotted-link {
   border-bottom: 1px dotted #778492;
   color: #778492;
