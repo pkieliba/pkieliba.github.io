@@ -147,6 +147,20 @@ a.btn-cta-secondary:hover, a.btn-cta-secondary:not(:disabled):not(.disabled):act
   background-clip: padding-box;
 }
 
+.dl-badge {
+  background: rgb(117, 50, 24);
+  font-size: 143x;
+  color: #fff;
+  -webkit-border-radius: 1px;
+  -moz-border-radius: 1px;
+  -ms-border-radius: 1px;
+  -o-border-radius: 1px;
+  border-radius: 1px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+}
+
 .stats-badge {
   background: rgb(216, 177, 1);
   font-size: 143x;
